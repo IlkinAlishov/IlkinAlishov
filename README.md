@@ -37,7 +37,7 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlkinAlisov&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlkinAlishov&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 --- 
 
